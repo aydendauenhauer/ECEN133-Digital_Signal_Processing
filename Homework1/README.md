@@ -1,0 +1,1 @@
+This repository contains my Homework 1 for ECEN 133, where I used MATLAB to generate and plot several discrete-time cosine sequences with different normalized frequencies (0.05π, 0.25π, 0.50π, and 4.25π radians/sample) over 60 samples. The script creates stem plots for each sequence to visualize how frequency affects oscillation rate and sampling behavior.
