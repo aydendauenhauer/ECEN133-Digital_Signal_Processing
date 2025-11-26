@@ -1,0 +1,1 @@
+This repository contains my Lab 9 work for ECEN 133. In this lab I use MATLAB to build separable 2D filters from simple 1D kernels, apply them via conv2 to synthetic images and real grayscale images to study smoothing, motion blur, and edge detection (vertical, horizontal, and Laplacian), and then design Gaussian-based filters to denoise and enhance noisy images.
