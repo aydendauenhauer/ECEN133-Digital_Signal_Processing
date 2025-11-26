@@ -1,0 +1,1 @@
+This repository contains my Homework 5 for ECEN 133, where I used MATLAB to solve and visualize a set of discrete-time signal processing problems, including numerical experiments with sequences, systems, and transform-domain behavior. The scripts focus on using MATLAB functions and plotting tools to explore DSP concepts through computation and simulation.
