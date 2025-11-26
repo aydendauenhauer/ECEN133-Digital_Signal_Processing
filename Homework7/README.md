@@ -1,0 +1,1 @@
+This repository contains my solution to Homework 7 for ECEN 133. The included MATLAB Live Script implements the required signal-processing computations, simulations, and plots to answer the assignment problems, focusing on analyzing discrete-time signals and their frequency-domain behavior.
