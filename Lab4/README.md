@@ -1,0 +1,1 @@
+This repository contains my Lab 4 work for ECEN 133. In this lab I analyze DTMF telephone signals in the frequency domain using short-time DFTs, identify row and column tone peaks, and study how segment length and FFT size affect frequency resolution and the ability to detect which buttons were pressed, including in the presence of noise and interpolation.
