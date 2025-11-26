@@ -1,0 +1,1 @@
+This repository contains my Homework 3 for ECEN 133, where I used MATLAB to model retirement account growth as a discrete-time IIR system with constant contributions and compound interest. The scripts use filter to simulate both monthly and annual deposits, compute the final account value after 30 years, and plot the balance on a semi-log scale to illustrate exponential growth.
