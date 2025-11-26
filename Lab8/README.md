@@ -1,0 +1,1 @@
+This repository contains my Lab 8 work for ECEN 133. In this lab I implement and analyze an adaptive LMS filter in MATLAB to separate a desired sinusoidal component from noisy observations, study squared error convergence, and examine how filter length and step size affect the learned filter’s frequency response and robustness to added noise.
